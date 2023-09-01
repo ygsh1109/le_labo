@@ -1,0 +1,33 @@
+div#mobile_fragrance_list_top{
+  width:100%;
+  height:560px;
+  background:#4D3F37;
+}
+
+div#mobile_fragrance_list_top>img{
+  width:100%;
+  height:auto;
+  margin-bottom:16px;
+}
+
+div.mobile_fragrance_list_top_content{
+  width:92%;
+  height:auto;
+  margin:0 auto;
+}
+
+h2.mobile_fragrance_top_title{
+  font:700 2.5em 'Bell Gothic';
+  color:#F9EEE7;
+}
+
+h3.mobile_fragrance_top_subtitle{
+  font:500 1.25em 'Noto Sans KR';
+  margin-bottom:20px;
+  color:#F9EEE7;
+}
+
+p.mobile_fragrance_top_text{
+  font:400 0.75em/1.5em 'Noto Sans KR';
+  color:#F9EEE7;
+}

@@ -1,0 +1,34 @@
+footer#mobilefooter_wrap{
+  width:100%;
+  height:360px;
+  background:#14100F;
+  padding:60px 0;
+}
+
+div#mobilefooter_content{
+  width:90%;
+  height:auto;
+  margin:0 auto;
+}
+
+h2.mobilefooter_logo{
+  width:140px;
+  height:auto;
+  margin-bottom:20px;
+}
+
+h2.mobilefooter_logo>img{
+  display:block;
+  width:100%;
+}
+
+p.mobilefooter_text{
+  font:400 0.75em/1.75em 'Noto Sans KR';
+  color:#FFF2E9;
+  margin-bottom:30px;
+}
+
+p.mobilefooter_privacy{
+  font:500 0.75em 'Noto Sans KR';
+  color:#FFF2E9;
+}

@@ -1,0 +1,34 @@
+div.footer_wrap{
+  width:100%;
+  height:360px;
+  background:#14100F;
+  padding:70px 0;
+}
+
+div#footer_content{
+  width:1400px;
+  height:100%;
+  margin:0 auto;
+}
+
+h2.footer_logo{
+  width:140px;
+  height:40px;
+  margin-bottom:40px;
+}
+
+h2.footer_logo>img{
+  display:block;
+  width:100%;
+}
+
+p.footer_text{
+  font:400 14px/24px 'Noto Sans KR';
+  color:#FFF2E9;
+  margin-bottom:30px;
+}
+
+p.footer_privacy{
+  font:500 14px/24px 'Noto Sans KR';
+  color:#FFF2E9;
+}

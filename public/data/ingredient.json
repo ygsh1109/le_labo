@@ -1,0 +1,21 @@
+
+[
+
+    {"index":0, "name":"SANDAL WOOD", 
+    "image": "/images/main/maincontent07_ingredient01.jpg",
+    "detail" : "SANTAL 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. SANTAL 33을 한마디로 요약하면 이렇습니다. 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드.",
+    "button" : "SANTAL 33" }, 
+    {"index":1, "name":"BLACK TEA LEAVES", "image": "/images/main/maincontent07_ingredient02.jpg",
+    "detail" : "스리랑카에서 자라는 카멜리아 시넨시스(Camellia Sinensis) 나무의 마른 잎사귀를 지속 가능한 방법으로 증류합니다. 블랙 티 잎 추출물은 그 자체로 풍부한 향과 달콤한 식물 노트를 지녔으며, 우디한 드라이다운과 향의 깊이를 더해줍니다.",
+    "button" : "THE NOIR 29"  }, 
+    {"index":2, "name":"ROSE CENTIFOLIA", "image": "/images/main/maincontent07_ingredient03.jpg",
+    "detail" : "로즈 센티폴리아 원액은 프랑스 그라스(Grasse) 지방에서 손으로 수확한 장미를 추출해 얻습니다. 이 장미 추출물은 꿀처럼 달콤하고 미묘한 노트를 지녔으며, 깊고 따스한 향을 선사합니다.",
+    "button" : "ROSE 31"}, 
+    {"index":3, "name":"BERGAMOT", "image": "/images/main/maincontent07_ingredient04.jpg",
+    "detail" : "환경적 책임 의식을 기반으로 재배되는 베르가못은 이탈리아 칼라브리아 남부의 특별한 시트러스 나무의 열매껍질에서 얻습니다. 베르가못이 지닌 반짝이는 투명함, 기분 좋은 시트러스, 프레쉬한 탑 노트가 밝고 경쾌한 향을 선사합니다.",
+    "button" : "BERGAMOT 22" },
+    {"index":4, "name":"TONKA BEAN", "image": "/images/main/maincontent07_ingredient05.jpg",
+    "detail" : "통카빈은 중남미에서 자생하는 딥테릭스 오도라타(Dipteryx Odorata) 나무의 씨앗에서 추출됩니다. 통카 빈은 그 자체로 매우 독특하고 따뜻한 아몬드와 바닐라 노트를 지녀 향에 풍부함을 더해줍니다.",
+    "button" : "TONKA 25"}
+ 
+  ]

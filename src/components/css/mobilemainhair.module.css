@@ -1,0 +1,65 @@
+div#mobile_mainhair_wrap{
+  width:100%;
+  height:500px;
+  background:url('/public/images/main/mobile_main03.jpg') no-repeat;
+  background-size:cover;
+  padding:30px 0;
+}
+
+div.mobile_mainhair_inner{
+  width:92%;
+  height:100%;
+  margin:auto auto;
+  position:relative;
+  left:0;
+  top:0;
+}
+
+h2.mobile_mainhair_title{
+  font:700 40px/50px 'Bell Gothic';
+  color:#FCF4EF;
+  margin-bottom:10px;
+}
+
+p.mobile_mainhair_text{
+  font:400 14px 'Noto Sans KR';
+  color:#FCF4EF;
+}
+
+button.more{
+  width:150px;
+  height:40px;
+  border-radius:20px;
+  border:solid 1px #FCF4EF;
+  color:#FCF4EF;
+  background:none;
+  font:400 14px 'Noto Sans KR';
+  text-align: left;
+  padding-left:26px;
+  position:absolute;
+  right:0;
+  bottom:10px;
+}
+
+button.more>img{
+  width:40px;
+  height:auto;
+  position:absolute;
+  right:26px;
+  top:16px;
+}
+
+div#mobile_mainhair_tag{
+  width:100%;
+  height:40px;
+  padding:0 4%;
+  background:#F9EEE7;
+  display:flex;  
+  justify-content:space-around;
+  align-items:center;  
+}
+
+div#mobile_mainhair_tag>span{
+  font:600 12px 'Noto Sans KR';
+  color:#4D3F37;
+}

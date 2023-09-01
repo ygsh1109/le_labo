@@ -1,0 +1,595 @@
+
+
+
+/* maincontent01 */
+
+div.wrap01{
+  width:100%;
+  height:900px;
+  background:#E3D4CA;
+  padding-top:100px;
+}
+
+div.content01{
+  width:1400px;
+  height:700px;
+  margin:0 auto;
+  position:relative;
+  left:0;
+  top:0;
+}
+
+div.content01text{
+  width:610px;
+  height:700px;
+  float:right;
+  position:absolute;
+  right:0;
+  top:0;
+}
+
+div.content01text>h2{
+  width:240px;
+  height:auto;
+  margin-bottom:70px;
+  margin-top:10px;
+}
+div.content01text>h2>img{
+  display:block;
+  width:100%;  
+}
+
+p.txt01{
+  color: #2C2321;
+  font:500 1.125em/2.125em 'Bell Gothic Std';
+  margin-bottom:60px;
+}
+
+p.txt02{
+  color: #2C2321;
+  font:400 1em/2.125em 'Noto Sans KR';
+}
+
+
+/* maincontent02 */
+
+div.wrap02{
+  width:100%;
+  height:960px; 
+}
+
+div#content02fragrance{
+  width:50%;
+  height:100%;
+  float:left;
+  /* background:url('/public/images/maincontent02_fragrance.jpg') no-repeat; */
+  background:url('/public/images/main/maincontent02_fragrance.jpg') no-repeat;
+  background-size:cover;
+  padding:60px 60px 0 0;
+}
+
+p.content02title{
+  font:900 1.5em 'Bell Gothic Std';
+  text-align:right;
+  color: #F9EEE7;
+  margin-bottom:20px;
+}
+
+p.content02title>span{
+  font-family:'Noto Sans KR';
+  font-weight:600;
+}
+
+p.content02text{
+  font:400 0.875em/1.375em 'Noto Sans KR';
+  color: #F9EEE7;
+  text-align: right;
+  margin-bottom:30px;
+}
+
+button.content02more{
+  width: 120px;
+  height: 40px;
+  border: 1px solid#F9EEE7;
+  background:none;
+  text-align: center;
+  float:right;
+  transition:all 0.5s ease;
+  font:400 0.875em/2.25em 'Noto Sans KR';
+}
+
+button.content02more>a{  
+  color: #F9EEE7;
+}
+
+button.content02more:hover{
+  background:#F9EEE7;
+}
+
+button.content02more:hover>a{
+  color: #2C2321;
+}
+
+ul#content02fragrance_product{
+  width:50%;
+  height:auto;
+  float:right;
+}
+
+ul#content02fragrance_product>li{
+  width:50%;
+  height:480px;
+  float:left;
+  position:relative;
+  left:0;
+  top:0;
+}
+
+ul#content02fragrance_product>li>img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit: cover; 
+}
+
+div.fragrance_product{
+  width:100%;
+  height:100%;
+  padding:40% 0 0 0;
+  position:absolute;
+  left:0;
+  top:0; 
+  text-align:center;
+  background:rgba(0,0,0,0.7);
+  color:#F9EEE7;
+  opacity:0;
+  transition: opacity 0.3s ease-out;
+}
+
+p.fragrance_product_name{
+  font:900 1.25em 'Bell Gothic Std';
+  margin-bottom:0.25em;
+}
+
+p.fragrance_product_size{
+  font:400 0.75em 'Noto Sans KR';
+  margin-bottom:0.625em;
+}
+
+p.fragrance_product_price{
+  font:400 1.5em 'Noto Sans KR';
+}
+
+p.fragrance_product_price>span{
+  font-size:0.85em;
+}
+
+
+ul#content02fragrance_product>li:hover .fragrance_product{
+  opacity:1;
+}
+
+
+ /* maincontent03 */
+
+ div.wrap03{
+  width:100%;
+  height:960px;
+}
+
+div#content03body{
+  width:50%;
+  height:960px;
+  float:left;
+  background:url('/public/images/main/maincontent02_body.jpg') no-repeat;
+  background-size:cover;
+  padding:60px 60px 0 0;
+}
+
+
+p.content03title{
+  font:900 1.5em 'Bell Gothic Std';
+  text-align:right;
+  color: #F9EEE7;
+  margin-bottom:20px;
+}
+
+p.content03title>span{
+  font-family:'Noto Sans KR';
+  font-weight:600;
+}
+
+p.content03text{
+  font:400 0.875em/1.375em 'Noto Sans KR';
+  color: #F9EEE7;
+  text-align: right;
+  margin-bottom:30px;
+}
+
+button.content03more{
+  width: 120px;
+  height: 40px;
+  border: 1px solid #F9EEE7;
+  background:none;
+  text-align: center;
+  float:right;
+  font:500 0.875em/2.25em 'Noto Sans KR';
+  color: #F9EEE7;
+  transition:all 0.5s ease;
+}
+
+button.content03more:hover{
+  background:#F9EEE7;
+  color: #2C2321;
+}
+
+
+ul#content03body_product{
+  width:50%;
+  height:auto;
+  float:right;
+}
+
+ul#content03body_product>li{
+  width:50%;
+  height:480px;
+  float:left;
+  position:relative;
+  left:0;
+  top:0;
+}
+
+ul#content03body_product>li>img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit: cover; 
+}
+
+div.body_product{
+  width:100%;
+  height:100%;
+  padding:40% 0 0 0;
+  position:absolute;
+  left:0;
+  top:0; 
+  text-align:center;
+  background:rgba(0,0,0,0.6);
+  color:#F9EEE7;
+  opacity:0;
+  transition: opacity 0.3s ease-out;
+}
+
+p.body_product_name{
+  font:900 1.25em 'Bell Gothic Std';
+  margin-bottom:0.25em;
+}
+
+p.body_product_size{
+  font:400 0.75em 'Noto Sans KR';
+  margin-bottom:0.625em;
+}
+
+p.body_product_price{
+  font:400 1.5em 'Noto Sans KR';
+}
+
+p.body_product_price>span{
+  font-size:0.85em;
+}
+
+ul#content03body_product>li:hover .body_product{
+  opacity:1;
+}
+
+
+
+/* maincontent04 */
+
+div.wrap04{
+  width:100%;
+  min-height:760px;
+  background:#D8CBC2;
+  padding-top:100px;
+}
+
+div.content04{
+  width:1400px;
+  height:100%;
+  margin:0 auto;
+}
+
+h2.rap_title{
+  font:600 1.5em 'Noto Sans KR';
+  color:#2C2321;
+  margin-bottom:10px;
+}
+
+p.rap_subtitle{
+  font:400 1em 'Noto Sans KR';
+  color:#444444;
+  margin-bottom:40px;
+}
+
+ul#content04rap_list{
+  width:100%;
+  height:430px;
+
+}
+
+ul#content04rap_list>li{
+  width:23.5%;
+  height:auto;
+  float:left;
+  margin-right:2%;
+}
+
+ul#content04rap_list>li:last-child{
+  margin-right:0;
+}
+
+ul#content04rap_list>li>img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit: cover; 
+  margin-bottom:14px;
+}
+
+p.rap_list_title{
+  font:500 1em 'Noto Sans KR';
+  color:#2C2321;
+  margin-bottom:6px;
+}
+
+p.rap_list_text{
+  font:400 0.875em 'Noto Sans KR';
+  color:#444444;
+}
+
+
+/* maincontent05 */
+
+
+div.wrap05{
+  width:100%;
+  height:480px;
+}
+
+
+div#content05lifestyle{
+  width:50%;
+  height:100%;
+  float:left;
+  background:url('/public/images/main/maincontent05_lifestyle.jpg') no-repeat;
+  background-size:cover;
+  padding:60px 60px 0 0;
+}
+
+p.content05title{
+  font:900 1.5em 'Bell Gothic Std';
+  text-align:right;
+  color: #F9EEE7;
+  margin-bottom:20px;
+}
+
+p.content05title>span{
+  font-family:'Noto Sans KR';
+  font-weight:600;
+}
+
+p.content05text{
+  font:400 0.875em/1.375em 'Noto Sans KR';
+  color: #F9EEE7;
+  text-align: right;
+  margin-bottom:30px;
+}
+
+button.content05more{
+  width: 120px;
+  height: 40px;
+  border: 1px solid #F9EEE7;
+  background:none;
+  text-align: center;
+  float:right;
+  font:500 0.875em/2.25em 'Noto Sans KR';
+  color: #F9EEE7;
+  transition:all 0.5s ease;
+}
+
+button.content05more:hover{
+  background:#F9EEE7;
+  color: #2C2321;
+}
+
+ul#content05lifestyle_product{
+  width:50%;
+  height:auto;
+  float:right;
+}
+
+ul#content05lifestyle_product>li{
+  width:50%;
+  height:480px;
+  float:left;
+  position:relative;
+  left:0;
+  top:0;
+}
+
+ul#content05lifestyle_product>li>img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit: cover; 
+}
+
+
+div.lifestyle_product{
+  width:100%;
+  height:100%;
+  padding:40% 0 0 0;
+  position:absolute;
+  left:0;
+  top:0; 
+  text-align:center;
+  background:rgba(0,0,0,0.6);
+  color:#F9EEE7;
+  opacity:0;
+  transition: opacity 0.3s ease-out;
+}
+
+p.lifestyle_product_name{
+  font:900 1.25em 'Bell Gothic Std';
+  margin-bottom:2px;
+}
+
+p.lifestyle_product_size{
+  font:400 0.75em 'Noto Sans KR';
+  margin-bottom:6px;
+}
+
+p.lifestyle_product_price{
+  font:400 1.5em 'Noto Sans KR';
+}
+
+p.lifestyle_product_price>span{
+  font-size:0.85em;
+}
+
+
+ul#content05lifestyle_product>li:hover .lifestyle_product{
+  opacity:1;
+}
+
+
+/* maincontent06*/
+div.wrap06{
+  width:100%;
+  height:600px;
+  background:url('/public/images/main/maincontent06_discovery01.jpg') no-repeat;
+  background-size:cover;
+}
+
+
+div#content06discovery{
+  width:1400px;
+  height:600px;
+  margin:0 auto;
+  padding-top:10%;
+  padding-right:4%;
+}
+
+p.content06title{
+  font:900 24px/30px 'Bell Gothic Std';
+  text-align:right;
+  color: #F9EEE7;
+  margin-bottom:20px;
+}
+
+p.content06title>span{
+  font-family:'Noto Sans KR';
+  font-weight:600;
+}
+
+p.content06text{
+  font:400 14px/22px 'Noto Sans KR';
+  color: #F9EEE7;
+  text-align: right;
+  margin-bottom:30px;
+}
+
+button.content06more{
+  width: 120px;
+  height: 40px;
+  border: 1px solid #F9EEE7;
+  background:none;
+  text-align: center;
+  float:right;
+  font:500 14px/36px 'Noto Sans KR';
+  color: #F9EEE7;
+  transition:all 0.5s ease;
+}
+
+button.content06more:hover{
+  background:#F9EEE7;
+  color: #2C2321;
+}
+
+
+/* maincontent07 */
+div.wrap07{
+  width:100%;
+  height:740px;
+  background:#F9EEE7;
+  padding:100px 0;
+}
+
+div#content07ingredient{
+  width:1400px;
+  height:100%;  
+  margin:0 auto;
+}
+
+ul#content07ingredient_list_tab{
+  width:30%;
+  height:100%;
+  float:left;
+  padding:0 0 0 60px;
+}
+
+p.content07title{
+  font:900 1.5em 'Bell Gothic Std';
+  text-align:left;
+  color: #2C2321;
+  margin-bottom:60px;
+}
+
+ul#content07ingredient_list_tab>li{
+  font:900 18px/30px 'Bell Gothic Std';
+  color:#705E54;
+  padding-bottom:26px;  
+}
+
+ul#content07ingredient_list_tab>li:hover{
+  color:#14100F;
+}
+
+.selected{
+  color:#14100F;
+}
+
+ul#content07ingredient_product{
+  width:70%;
+  height:auto;
+  float:left;
+}
+
+
+p.content07ingredient_img{
+  width:920px;
+  height:380px;
+  margin-bottom:20px;
+}
+
+p.content07ingredient_img>img{
+  display:block;
+  width:100%;
+  height:100%;  
+  object-fit: cover; 
+}
+
+p.content07ingredient_title{
+  font:900 18px/30px 'Bell Gothic Std';
+  color:#2C2321;
+  margin-bottom:4px;
+}
+
+p.content07ingredient_text{
+  width:920px;
+  font:400 14px/20px 'Noto Sans KR';
+  color:#2C2321;
+  margin-bottom:16px;
+}
+
+

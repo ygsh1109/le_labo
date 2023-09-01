@@ -1,0 +1,69 @@
+[
+  {"id":"001", 
+  "category":"오드퍼퓸", 
+  "name":"SANTAL 33 PERFUME 50ML", 
+  "image":"/images/fragrance/santal33_perfume_50ml_01.jpg", 
+  "subimg":[
+    {"index":0,"img":"/images/fragrance/santal33_perfume_50ml_01.jpg"}, 
+    {"index":1,"img":"/images/fragrance/santal33_perfume_50ml_02.jpg"}, 
+    {"index":2,"img":"/images/fragrance/santal33_perfume_50ml_03.jpg"}
+  ],
+  "price":310000
+  },
+
+  
+  {"id":"002", "category":"오드퍼퓸", "name":"SANTAL 33 PERFUME 100ML", "image":"/images/fragrance/santal33_perfume_100ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/santal33_perfume_100ml_01.jpg"}, {"index":1,"img":"/images/fragrance/santal33_perfume_100ml_02.jpg"}, {"index":2,"img":"/images/fragrance/santal33_perfume_100ml_03.jpg"}],"price":440000},
+  {"id":"003", "category":"오드퍼퓸", "name":"SANTAL 33 PERFUME 500ML", "image":"/images/fragrance/santal33_perfume_500ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/santal33_perfume_500ml_01.jpg"}, {"index":1,"img":"/images/fragrance/santal33_perfume_500ml_02.jpg"}, {"index":2,"img":"/images/fragrance/santal33_perfume_500ml_03.jpg"}], "price":1500000},
+  {"id":"004", "category":"오드퍼퓸", "name":"SANTAL 33 PERFUME 15ML", "image":"/images/fragrance/santal33_perfume_15ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/santal33_perfume_15ml_01.jpg"}, {"index":1,"img":"/images/fragrance/santal33_perfume_15ml_02.jpg"}, {"index":2,"img":"/images/fragrance/santal33_perfume_15ml_03.jpg"}], "price":132000},  
+
+  {"id":"005", "category":"오드퍼퓸", "name":"THÉ NOIR 29 PERFUME 50ML", "image":"/images/fragrance/thenoir29_perfume_50ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/thenoir29_perfume_50ml_01.jpg"}, {"index":1,"img":"/images/fragrance/thenoir29_perfume_50ml_02.jpg"}, {"index":2,"img":"/images/fragrance/thenoir29_perfume_50ml_03.jpg"}], "price":310000},  
+  {"id":"006", "category":"오드퍼퓸", "name":"THÉ NOIR 29 PERFUME 100ML", "image":"/images/fragrance/thenoir29_perfume_100ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/thenoir29_perfume_100ml_01.jpg"}, {"index":1,"img":"/images/fragrance/thenoir29_perfume_100ml_02.jpg"}, {"index":2,"img":"/images/fragrance/thenoir29_perfume_100ml_03.jpg"}], "price":440000},
+  {"id":"007", "category":"오드퍼퓸", "name":"THÉ NOIR 29 PERFUME 500ML", "image":"/images/fragrance/thenoir29_perfume_500ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/thenoir29_perfume_500ml_01.jpg"}, {"index":1,"img":"/images/fragrance/thenoir29_perfume_500ml_02.jpg"}, {"index":2,"img":"/images/fragrance/thenoir29_perfume_500ml_03.jpg"}], "price":1500000},
+  {"id":"008", "category":"오드퍼퓸", "name":"THÉ NOIR 29 PERFUME 15ML", "image":"/images/fragrance/thenoir29_perfume_15ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/thenoir29_perfume_15ml_01.jpg"}, {"index":1,"img":"/images/fragrance/thenoir29_perfume_15ml_02.jpg"}, {"index":2,"img":"/images/fragrance/thenoir29_perfume_15ml_03.jpg"}], "price":132000}, 
+  
+  {"id":"009", "category":"오드퍼퓸", "name":"ROSE 31 PERFUME 50ML", "image":"/images/fragrance/rose31_perfume_50ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/rose31_perfume_50ml_01.jpg"}, {"index":1,"img":"/images/fragrance/rose31_perfume_50ml_02.jpg"}, {"index":2,"img":"/images/fragrance/rose31_perfume_50ml_03.jpg"}], "price":310000},  
+  {"id":"010", "category":"오드퍼퓸", "name":"ROSE 31 PERFUME 100ML", "image":"/images/fragrance/rose31_perfume_100ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/rose31_perfume_100ml_01.jpg"}, {"index":1,"img":"/images/fragrance/rose31_perfume_100ml_02.jpg"}, {"index":2,"img":"/images/fragrance/rose31_perfume_100ml_03.jpg"}],"price":440000},
+  {"id":"011", "category":"오드퍼퓸", "name":"ROSE 31 PERFUME 500ML", "image":"/images/fragrance/rose31_perfume_500ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/rose31_perfume_500ml_01.jpg"}, {"index":1,"img":"/images/fragrance/rose31_perfume_500ml_02.jpg"}, {"index":2,"img":"/images/fragrance/rose31_perfume_500ml_03.jpg"}],"price":1500000},
+  {"id":"012", "category":"오드퍼퓸", "name":"ROSE 31 PERFUME 15ML", "image":"/images/fragrance/rose31_perfume_15ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/rose31_perfume_15ml_01.jpg"}, {"index":1,"img":"/images/fragrance/rose31_perfume_15ml_02.jpg"}, {"index":2,"img":"/images/fragrance/rose31_perfume_15ml_03.jpg"}],"price":132000}, 
+  
+  {"id":"013", "category":"오드퍼퓸", "name":"BERGAMOTE 22 PERFUME 50ML", "image":"/images/fragrance/bergamote22_perfume_50ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/bergamote22_perfume_50ml_01.jpg"}, {"index":1,"img":"/images/fragrance/bergamote22_perfume_50ml_02.jpg"}, {"index":2,"img":"/images/fragrance/bergamote22_perfume_50ml_03.jpg"}], "price":310000},  
+  {"id":"014", "category":"오드퍼퓸", "name":"BERGAMOTE 22 PERFUME 100ML", "image":"/images/fragrance/bergamote22_perfume_100ml_01.jpg", 
+  "subimg":[{"index":0,"img":"/images/fragrance/bergamote22_perfume_100ml_01.jpg"}, {"index":1,"img":"/images/fragrance/bergamote22_perfume_100ml_02.jpg"}, {"index":2,"img":"/images/fragrance/bergamote22_perfume_50ml_03.jpg"}], "price":440000},
+  {"id":"015", "category":"오드퍼퓸", "name":"BERGAMOTE 22 PERFUME 500ML", "image":"/images/fragrance/bergamote22_perfume_500ml_01.jpg", 
+  "subimg":[{"index":0,"img":"/images/fragrance/bergamote22_perfume_500ml_01.jpg"}, {"index":1,"img":"/images/fragrance/bergamote22_perfume_500ml_02.jpg"}, {"index":2,"img":"/images/fragrance/bergamote22_perfume_50ml_03.jpg"}], "price":1500000},
+  {"id":"016", "category":"오드퍼퓸", "name":"BERGAMOTE 22 PERFUME 15ML", "image":"/images/fragrance/bergamote22_perfume_15ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/bergamote22_perfume_15ml_01.jpg"}, {"index":1,"img":"/images/fragrance/bergamote22_perfume_15ml_02.jpg"}, {"index":2,"img":"/images/fragrance/bergamote22_perfume_50ml_03.jpg"}], "price":132000}, 
+  
+  {"id":"017", "category":"리퀴드밤", "name":"SANTAL 33 LIQUID BALM 9ML", "image":"/images/fragrance/santal33_liquidbalm_9ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/santal33_liquidbalm_9ml_01.jpg"}, {"index":1,"img":"/images/fragrance/santal33_liquidbalm_9ml_02.jpg"}],"price":139000},  
+  {"id":"018", "category":"리퀴드밤", "name":"THÉ NOIR 29 LIQUID BALM 9ML", "image":"/images/fragrance/thenoir29_liquidbalm_9ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/thenoir29_liquidbalm_9ml_01.jpg"}, {"index":1,"img":"/images/fragrance/thenoir29_liquidbalm_9ml_02.jpg"}], "price":139000},
+  {"id":"019", "category":"리퀴드밤", "name":"ROSE 31 LIQUID BALM 9ML", "image":"/images/fragrance/rose31_liquidbalm_9ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/rose31_liquidbalm_9ml_01.jpg"}, {"index":1,"img":"/images/fragrance/rose31_liquidbalm_9ml_02.jpg"}],"price":139000},
+  {"id":"020", "category":"리퀴드밤", "name":"BERGAMOTE 22 LIQUID BALM 9ML", "image":"/images/fragrance/bergamote22_liquidbalm_9ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/bergamote22_liquidbalm_9ml_01.jpg"}, {"index":1,"img":"/images/fragrance/bergamote22_liquidbalm_9ml_02.jpg"}],"price":139000}, 
+  
+  {"id":"021", "category":"트래블튜브", "name":"SANTAL 33 TRAVEL TUBE 10ML", "image":"/images/fragrance/santal33_traveltube_10ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/santal33_traveltube_10ml_01.jpg"}, {"index":1,"img":"/images/fragrance/santal33_traveltube_10ml_02.jpg"}], "price":261000},  
+  {"id":"022", "category":"트래블튜브", "name":"THÉ NOIR 29 TRAVEL TUBE 10ML", "image":"/images/fragrance/thenoir29_traveltube_10ml_01.jpg",
+  "subimg":[{"index":0,"img":"/images/fragrance/thenoir29_traveltube_10ml_01.jpg"}, {"index":1,"img":"/images/fragrance/thenoir29_traveltube_10ml_02.jpg"}],"price":261000},
+  {"id":"023", "category":"트래블튜브", "name":"ROSE 31 TRAVEL TUBE 10ML", "image":"/images/fragrance/rose31_traveltube_10ml_01.jpg", 
+  "subimg":[{"index":0,"img":"/images/fragrance/rose31_traveltube_10ml_01.jpg"}, {"index":1,"img":"/images/fragrance/rose31_traveltube_10ml_02.jpg"}], "price":261000},
+  {"id":"024", "category":"트래블튜브", "name":"BERGAMOTE 22 TRAVEL TUBE 10ML", "image":"/images/fragrance/bergamote22_traveltube_10ml_01.jpg", 
+  "subimg":[{"index":0,"img":"/images/fragrance/bergamote22_traveltube_10ml_01.jpg"}, {"index":1,"img":"/images/fragrance/bergamote22_traveltube_10ml_02.jpg"}], "price":261000}
+
+
+  
+] 

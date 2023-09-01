@@ -1,0 +1,119 @@
+div#mobilemain_fragrance_img{
+  width:100%;
+  height:300px;
+  background:url('/public/images/main/mobile_main01.jpg') no-repeat;
+  background-size:cover;
+  border-radius: 0 0 20px 0;
+  margin-top:70px;
+  margin-bottom:10px;
+}
+
+div#mobilemain_fragrance_wrap{
+  width:92%;
+  height:auto;
+  margin:0 auto;
+}
+
+div.mobilemain_fragrance{
+  width:100%;
+  height:auto;
+  margin-bottom:80px;
+}
+
+h2.mobilemain_fragrance_title{
+  font:600 40px 'Noto Sans KR';
+  color:#2C2321;
+  margin-bottom:10px;
+}
+
+p.mobilemain_fragrance_text{
+  font:400 14px 'Noto Sans KR';
+  color:#2C2321;
+  margin-bottom:20px;
+}
+
+button.more{
+  width:150px;
+  height:40px;
+  border-radius:20px;
+  border:solid 1px #2C2321;
+  color:#2c2321;
+  background:none;
+  font:400 14px 'Noto Sans KR';
+  text-align: left;
+  padding-left:26px;
+  position:relative;
+  left:0;
+  top:0;
+}
+
+button.more img{
+  width:40px;
+  height:auto;
+  position:absolute;
+  right:26px;
+  top:16px;
+}
+
+ul#mobile_best_fragrance_slide{
+  width:100%;
+  height:auto;
+  overflow: hidden;
+}
+
+h3.subtitle{
+  font:500 30px 'Bell Gothic';
+  color:#2C2321;
+  margin-bottom:20px;
+  padding-left:10px;
+ }
+
+h3.subtitle>span{
+  font-weight:700;
+}
+
+ul#mobile_best_fragrance_slide>li{
+  width:48%;
+  height:auto;
+  float:left;
+  margin-right:4%;
+  margin-bottom:100px;
+}
+
+ul#mobile_best_fragrance_slide>li:last-child{
+  margin-right:0;
+}
+
+div.best_fragrance_img{
+  width:100%;
+  height:auto;
+  border-radius:20px;
+  overflow: hidden;
+  margin-bottom:12px;
+}
+
+div.best_fragrance_img>img{
+  display:block;
+  width:100%;
+}
+
+ul#mobile_best_fragrance_slide>li>p{
+  padding-left:10px;
+}
+
+p.best_fragrance_name{
+  font:700 16px 'Bell Gothic';
+  color:#333;
+  margin-bottom:6px;
+}
+
+p.best_fragrance_category{
+  font:400 12px 'Noto Sans KR';
+  color:#666;
+  margin-bottom:6px;
+}
+
+p.best_fragrance_price{
+  font:600 18px 'Noto Sans KR';
+  color:#333;
+}

@@ -1,0 +1,176 @@
+/* fragrance_top */
+div.fragrance_top{
+  width:100%;
+  height:880px;
+  background:url('/public/images/fragrance/top_slide/fragrance_top.jpg') no-repeat;
+  background-size:cover;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.fragrance_title{
+  width:1400px;
+  height:auto;
+  margin:0 auto;
+}
+
+div.fragrance_title>h2{
+  font: 600 30px 'Noto Sans KR';
+  color: #E8DFD9;
+  margin-bottom:14px;
+}
+
+div.fragrance_title>h2>span{
+  font: 700 26px 'Bell Gothic';
+}
+
+div.fragrance_title>p{
+  font: 400 14px/24px 'Noto Sans KR';
+  color:#E8DFD9;
+  
+}
+
+/* fragrance_slide */
+
+div.fragrance_slide_img{
+  width:50%;
+  height:460px;
+  float:left;
+}
+
+div.fragrance_slide_img>img{
+  display:block;
+  width:100%;
+  height:100%;
+}
+
+div.fragrance_slide_content{
+  width:50%;
+  height:460px;  
+  float:left;
+  color:#e8dfde;
+  padding:8% 0 0 4%;
+  background:#161A23;
+}
+
+p.fragrance_slide_title{
+  text-align: left;
+  font:700 20px 'Bell Gothic';
+  margin-bottom:20px;
+}
+
+p.fragrance_slide_text{
+  width:70%;
+  height:auto;
+  text-align: left;
+  font:400 14px/24px 'Noto Sans KR';
+}
+
+
+/* fragrance_list */
+
+div.fragrance_wrap{
+  width:100%;
+  height:auto;
+  padding:100px 0;
+  display: flex; /* flex 디스플레이 사용 */
+  flex-direction: column; /* 자식 요소를 수직으로 정렬 */
+  align-items: center; /* 자식 요소를 수평으로 가운데 정렬 */
+  
+}
+
+div#fragrance_contents{
+  width:1400px;
+  height:100%;
+  margin:0 auto;
+}
+
+div#fragrance_category{
+  width:100%;
+  height:80px;
+  margin:0 auto;
+}
+
+h3.fragrance_category_title{
+  font:600 24px 'Noto Sans KR';
+  color:#333333;  
+  margin-bottom:20px;
+  float:left;
+}
+
+ul#fragrance_filter_menu {
+  width:400px;
+  height:60px;
+  float:right;
+  display:flex;
+  justify-content: space-between;
+}
+
+ul#fragrance_filter_menu>li{
+  cursor:pointer;
+  font:400 18px 'Noto Sans KR';
+  color:#999;
+}
+
+ul#fragrance_filter_menu>li:last-child{
+  margin-right:0;
+}
+
+ul#fragrance_filter_menu>li.selected{
+  color:#333;
+}
+
+ul#fragrance_product_list{
+  width:100%;
+  height:auto;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+}
+
+ul#fragrance_product_list>li{
+  width:23%;
+  height:auto;
+  margin-bottom:100px;
+}
+
+div.fragrance_product_img{
+  width:100%;
+  height:auto;
+  margin-bottom:10px;
+}
+
+div.fragrance_product_img>img{
+  display:block;
+  width:100%;
+}
+
+div.fragrance_product_text{
+  width:100%;
+  height:auto;
+  text-align:center;
+  padding-left:10px;
+}
+
+p.fragrance_product_name{
+  font:700 18px 'Bell Gothic';
+  color:#333;
+  margin-bottom:10px;
+}
+
+p.fragrance_product_category{
+  font:400 12px 'Noto Sans KR';
+  color:#888;
+  margin-bottom:10px;
+}
+
+p.fragrance_product_price{
+  font:600 18px 'Noto Sans KR';
+  color:#333;
+}
+
+p.fragrance_product_price>span{
+  font:600 14px 'Noto Sans KR';
+}

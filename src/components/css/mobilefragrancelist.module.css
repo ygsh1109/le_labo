@@ -1,0 +1,80 @@
+div#mobile_fragrance_list_wrap{
+  width:100%;
+  height:auto;
+  background:#FDF5EF;
+  padding-top:40px;
+
+  display: flex; /* flex 디스플레이 사용 */
+  flex-direction: column; /* 자식 요소를 수직으로 정렬 */
+  align-items: center; /* 자식 요소를 수평으로 가운데 정렬 */
+}
+
+ul#mobile_fragrance_category_list{
+  width:92%;
+  margin:0 auto 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+}
+
+ul#mobile_fragrance_category_list>li{
+  font:600 1em/2.5em 'Noto Sans KR';
+  color:#999;
+}
+
+ul#mobile_fragrance_category_list>li.selected{
+  color:#333;
+}
+
+ul#mobile_fragrance_list{
+  width:92%;
+  height:100%;
+  margin-bottom:100px;
+}
+
+ul#mobile_fragrance_list>li{
+  width:48%;
+  height:auto;
+  float:left;
+  margin-right:4%;
+  margin-bottom:60px;
+}
+
+ul#mobile_fragrance_list>li:nth-child(2n){
+  margin-right:0;
+}
+
+div.mobile_fragrance_list_img{
+  width:100%;
+  height:160px;
+  border-radius:20px;
+  overflow: hidden;
+  margin-bottom:12px;
+}
+
+div.mobile_fragrance_list_img>img{
+  display: block;
+  width:100%;
+  height:auto;
+}
+
+ul#mobile_fragrance_list>li p{
+  padding-left:10px;
+}
+
+p.mobile_fragrance_list_name{
+  font:700 16px 'Bell Gothic';
+  color:#333;
+  margin-bottom:6px;
+}
+
+p.mobile_fragrance_list_category{
+  font:400 12px 'Noto Sans KR';
+  color:#666;
+  margin-bottom:6px;
+}
+
+p.mobile_fragrance_list_price{
+  font:600 18px 'Noto Sans KR';
+  color:#333;
+}

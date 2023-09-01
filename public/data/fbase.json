@@ -1,0 +1,440 @@
+{
+  "fragrance": {
+    "001": {
+      "id":"001",
+      "category": "오드퍼퓸",
+      "name": "SANTAL 33 PERFUME 50ML",
+      "image": "/images/fragrance/santal33_perfume_50ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/santal33_perfume_50ml_01.jpg"},
+        {"img": "/images/fragrance/santal33_perfume_50ml_02.jpg"},
+        {"img": "/images/fragrance/santal33_perfume_50ml_03.jpg"}        
+
+      ],
+
+      "price": 310000,
+      "detail" : "SANTAL 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. SANTAL 33을 한마디로 요약하면 이렇습니다. 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드."
+    },
+
+    "002": {
+      "id":"002",
+      "category": "오드퍼퓸",
+      "name": "SANTAL 33 PERFUME 100ML",
+      "image": "/images/fragrance/santal33_perfume_100ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/santal33_perfume_100ml_01.jpg"},
+        {"img": "/images/fragrance/santal33_perfume_100ml_02.jpg"},
+        {"img": "/images/fragrance/santal33_perfume_100ml_03.jpg"}        
+
+      ],
+
+      "price": 261000,
+     "detail" : "SANTAL 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. SANTAL 33을 한마디로 요약하면 이렇습니다. 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드."
+    },
+
+    "003" : {
+      "id":"003",
+       "category":"오드퍼퓸", 
+       "name":"SANTAL 33 PERFUME 500ML", 
+       "image":"/images/fragrance/santal33_perfume_500ml_01.jpg",
+        "subimg":[
+        
+          {"img": "/images/fragrance/santal33_perfume_500ml_01.jpg"},
+          {"img": "/images/fragrance/santal33_perfume_500ml_02.jpg"},
+          {"img": "/images/fragrance/santal33_perfume_500ml_03.jpg"}        
+  
+        ],
+
+          "price":1500000,
+         "detail" : "SANTAL 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. SANTAL 33을 한마디로 요약하면 이렇습니다. 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드."
+      },
+
+    "004" : {
+      "id":"004",
+      "category":"오드퍼퓸",
+      "name":"SANTAL 33 PERFUME 15ML", 
+       "image":"/images/fragrance/santal33_perfume_15ml_01.jpg",
+        "subimg":[
+        
+          {"img": "/images/fragrance/santal33_perfume_15ml_01.jpg"},
+          {"img": "/images/fragrance/santal33_perfume_15ml_02.jpg"},
+          {"img": "/images/fragrance/santal33_perfume_15ml_03.jpg"}        
+  
+        ],
+          "price":132000,
+          "detail" : "SANTAL 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. SANTAL 33을 한마디로 요약하면 이렇습니다. 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드."
+    },
+
+    "005" : {
+      "id":"005",
+      "category":"오드퍼퓸",
+      "name":"THÉ NOIR 29 PERFUME 50ML", 
+       "image":"/images/fragrance/thenoir29_perfume_50ml_01.jpg",
+        "subimg":[
+        
+          {"img": "/images/fragrance/thenoir29_perfume_50ml_01.jpg" },
+          {"img": "/images/fragrance/thenoir29_perfume_50ml_02.jpg" },
+          {"img": "/images/fragrance/thenoir29_perfume_50ml_03.jpg" }
+
+        ],
+
+          "price":310000,
+          "detail" : "THE NOIR 29는 블랙 티 잎의 우아하고 아름다운 향에 바치는 찬가와도 같은 향수입니다. 베르가못, 무화과, 월계수잎의 밝은 느낌과, 시더우드, 베티버, 머스크의 다크함이 어우러져 깊이 있으면서 산뜻하고, 부드러우면서도 강한 반전 매력을 갖고 있습니다. 르 라보만의 특별한 비법으로 추출한 블랙 티 향이 온몸을 감싸줍니다. 드라이한 나뭇잎과 건초향, 토바코의 쌉싸래한 향으로 센슈얼하고 중독적인 잔향을 남깁니다."
+    },
+
+    "006": {
+      "id":"006",
+      "category": "오드퍼퓸",
+      "name": "THÉ NOIR 29 PERFUME 100ML",
+      "image": "/images/fragrance/thenoir29_perfume_100ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/thenoir29_perfume_100ml_01.jpg" },
+        {"img": "/images/fragrance/thenoir29_perfume_100ml_02.jpg" },
+        {"img": "/images/fragrance/thenoir29_perfume_100ml_03.jpg" }
+
+      ],
+
+
+      "price": 440000,
+      "detail" : "THE NOIR 29는 블랙 티 잎의 우아하고 아름다운 향에 바치는 찬가와도 같은 향수입니다. 베르가못, 무화과, 월계수잎의 밝은 느낌과, 시더우드, 베티버, 머스크의 다크함이 어우러져 깊이 있으면서 산뜻하고, 부드러우면서도 강한 반전 매력을 갖고 있습니다. 르 라보만의 특별한 비법으로 추출한 블랙 티 향이 온몸을 감싸줍니다. 드라이한 나뭇잎과 건초향, 토바코의 쌉싸래한 향으로 센슈얼하고 중독적인 잔향을 남깁니다."
+    },
+
+    "007": {
+      "id":"007",
+      "category": "오드퍼퓸",
+      "name": "THÉ NOIR 29 PERFUME 500ML",
+      "image": "/images/fragrance/thenoir29_perfume_500ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/thenoir29_perfume_500ml_01.jpg" },
+        {"img": "/images/fragrance/thenoir29_perfume_500ml_02.jpg" },
+        {"img": "/images/fragrance/thenoir29_perfume_500ml_03.jpg" }
+
+      ],
+      "price": 1500000,
+      "detail" : "THE NOIR 29는 블랙 티 잎의 우아하고 아름다운 향에 바치는 찬가와도 같은 향수입니다. 베르가못, 무화과, 월계수잎의 밝은 느낌과, 시더우드, 베티버, 머스크의 다크함이 어우러져 깊이 있으면서 산뜻하고, 부드러우면서도 강한 반전 매력을 갖고 있습니다. 르 라보만의 특별한 비법으로 추출한 블랙 티 향이 온몸을 감싸줍니다. 드라이한 나뭇잎과 건초향, 토바코의 쌉싸래한 향으로 센슈얼하고 중독적인 잔향을 남깁니다."
+    },
+
+    "008": {
+      "id":"008",
+      "category": "오드퍼퓸",
+      "name": "THÉ NOIR 29 PERFUME 15ML",
+      "image": "/images/fragrance/thenoir29_perfume_15ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/thenoir29_perfume_15ml_01.jpg" },
+        {"img": "/images/fragrance/thenoir29_perfume_15ml_02.jpg" },
+        {"img": "/images/fragrance/thenoir29_perfume_15ml_03.jpg" }
+
+      ],
+      "price": 132000,
+      "detail" : "THE NOIR 29는 블랙 티 잎의 우아하고 아름다운 향에 바치는 찬가와도 같은 향수입니다. 베르가못, 무화과, 월계수잎의 밝은 느낌과, 시더우드, 베티버, 머스크의 다크함이 어우러져 깊이 있으면서 산뜻하고, 부드러우면서도 강한 반전 매력을 갖고 있습니다. 르 라보만의 특별한 비법으로 추출한 블랙 티 향이 온몸을 감싸줍니다. 드라이한 나뭇잎과 건초향, 토바코의 쌉싸래한 향으로 센슈얼하고 중독적인 잔향을 남깁니다."
+    },
+
+    "009": {
+      "id":"009",
+      "category": "오드퍼퓸",
+      "name": "ROSE 31 PERFUME 50ML",
+      "image": "/images/fragrance/rose31_perfume_50ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/rose31_perfume_50ml_01.jpg" },
+        {"img": "/images/fragrance/rose31_perfume_50ml_02.jpg" },
+        {"img": "/images/fragrance/rose31_perfume_50ml_03.jpg" }
+
+      ],
+      "price": 310000,
+      "detail":"ROSE 31은 센티폴리아 로즈의 모호한 매력으로 남성성/여성성의 경계를 뛰어넘었습니다. 여기에 커민, 올리바넘, 시더우드와 앰버의 노트가 더해져 따뜻하면서도 스파이시한 우디 향을 선사합니다. 베이스 노트로 가이악 우드와 시스투스가 센슈얼한 느낌을 주며 동물적이고 관능적인 향이 신비로움을 더합니다."
+    },
+
+    "010": {
+      "id":"010",
+      "category": "오드퍼퓸",
+      "name": "ROSE 31 PERFUME 50ML",
+      "image": "/images/fragrance/rose31_perfume_100ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/rose31_perfume_100ml_01.jpg" },
+        {"img": "/images/fragrance/rose31_perfume_100ml_02.jpg" },
+        {"img": "/images/fragrance/rose31_perfume_100ml_03.jpg" }
+
+      ],
+
+      "price": 440000,
+      "detail":"ROSE 31은 센티폴리아 로즈의 모호한 매력으로 남성성/여성성의 경계를 뛰어넘었습니다. 여기에 커민, 올리바넘, 시더우드와 앰버의 노트가 더해져 따뜻하면서도 스파이시한 우디 향을 선사합니다. 베이스 노트로 가이악 우드와 시스투스가 센슈얼한 느낌을 주며 동물적이고 관능적인 향이 신비로움을 더합니다."
+    },
+
+    "011": {
+      "id":"011",
+      "category": "오드퍼퓸",
+      "name": "ROSE 31 PERFUME 50ML",
+      "image": "/images/fragrance/rose31_perfume_500ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/rose31_perfume_500ml_01.jpg" },
+        {"img": "/images/fragrance/rose31_perfume_500ml_02.jpg" },
+        {"img": "/images/fragrance/rose31_perfume_500ml_03.jpg" }
+
+      ],
+      "price": 1500000,
+      "detail":"ROSE 31은 센티폴리아 로즈의 모호한 매력으로 남성성/여성성의 경계를 뛰어넘었습니다. 여기에 커민, 올리바넘, 시더우드와 앰버의 노트가 더해져 따뜻하면서도 스파이시한 우디 향을 선사합니다. 베이스 노트로 가이악 우드와 시스투스가 센슈얼한 느낌을 주며 동물적이고 관능적인 향이 신비로움을 더합니다."
+    },
+
+    "012": {
+      "id":"012",
+      "category": "오드퍼퓸",
+      "name": "ROSE 31 PERFUME 50ML",
+      "image": "/images/fragrance/rose31_perfume_15ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/rose31_perfume_15ml_01.jpg" },
+        {"img": "/images/fragrance/rose31_perfume_15ml_02.jpg" },
+        {"img": "/images/fragrance/rose31_perfume_15ml_03.jpg" }
+
+      ],
+      "price": 132000,
+      "detail":"ROSE 31은 센티폴리아 로즈의 모호한 매력으로 남성성/여성성의 경계를 뛰어넘었습니다. 여기에 커민, 올리바넘, 시더우드와 앰버의 노트가 더해져 따뜻하면서도 스파이시한 우디 향을 선사합니다. 베이스 노트로 가이악 우드와 시스투스가 센슈얼한 느낌을 주며 동물적이고 관능적인 향이 신비로움을 더합니다."
+    },
+
+    "013": {
+      "id":"013",
+      "category": "오드퍼퓸",
+      "name": "BERGAMOTE 22 PERFUME 50ML",
+      "image": "/images/fragrance/bergamote22_perfume_50ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/bergamote22_perfume_50ml_01.jpg" },
+        {"img": "/images/fragrance/bergamote22_perfume_50ml_02.jpg" },
+        {"img": "/images/fragrance/bergamote22_perfume_50ml_03.jpg" }
+
+      ],
+      "price": 310000,
+      "detail":"BERGAMOTE 22는 신선함, 달콤함, 그리고 센슈얼한 느낌을 모두 담은 시트러스 프레쉬 계열의 향수입니다. 이 놀라운 조합은 이 향수의 원래 코드명이었던 파이어 코롱(Fire Cologne)에서 연상할 수 있습니다. 페티그레인의 섬세한 플로럴 향, 자몽의 쌉싸래한 향, 앰버와 머스크의 풍성한 달콤함, 그리고 베티버의 남성미 넘치는 터치가 더해져 BERGAMOTE 22의 독특한 개성을 완성합니다."
+    },
+
+    "014": {
+      "id":"014",
+      "category": "오드퍼퓸",
+      "name": "BERGAMOTE 22 PERFUME 50ML",
+      "image": "/images/fragrance/bergamote22_perfume_100ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/bergamote22_perfume_100ml_01.jpg" },
+        {"img": "/images/fragrance/bergamote22_perfume_100ml_02.jpg" },
+        {"img": "/images/fragrance/bergamote22_perfume_100ml_03.jpg" }
+
+      ],
+      "price": 440000,
+      "detail":"BERGAMOTE 22는 신선함, 달콤함, 그리고 센슈얼한 느낌을 모두 담은 시트러스 프레쉬 계열의 향수입니다. 이 놀라운 조합은 이 향수의 원래 코드명이었던 파이어 코롱(Fire Cologne)에서 연상할 수 있습니다. 페티그레인의 섬세한 플로럴 향, 자몽의 쌉싸래한 향, 앰버와 머스크의 풍성한 달콤함, 그리고 베티버의 남성미 넘치는 터치가 더해져 BERGAMOTE 22의 독특한 개성을 완성합니다."
+    },
+
+    "015": {
+      "id":"015",
+      "category": "오드퍼퓸",
+      "name": "BERGAMOTE 22 PERFUME 50ML",
+      "image": "/images/fragrance/bergamote22_perfume_500ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/bergamote22_perfume_500ml_01.jpg" },
+        {"img": "/images/fragrance/bergamote22_perfume_500ml_02.jpg" },
+        {"img": "/images/fragrance/bergamote22_perfume_500ml_03.jpg" }
+
+      ],
+      "price": 1500000,
+      "detail":"BERGAMOTE 22는 신선함, 달콤함, 그리고 센슈얼한 느낌을 모두 담은 시트러스 프레쉬 계열의 향수입니다. 이 놀라운 조합은 이 향수의 원래 코드명이었던 파이어 코롱(Fire Cologne)에서 연상할 수 있습니다. 페티그레인의 섬세한 플로럴 향, 자몽의 쌉싸래한 향, 앰버와 머스크의 풍성한 달콤함, 그리고 베티버의 남성미 넘치는 터치가 더해져 BERGAMOTE 22의 독특한 개성을 완성합니다."
+    },
+
+    "016": {
+      "id":"016",
+      "category": "오드퍼퓸",
+      "name": "BERGAMOTE 22 PERFUME 50ML",
+      "image": "/images/fragrance/bergamote22_perfume_15ml_01.jpg",
+      "subimg": [
+        
+        {"img": "/images/fragrance/bergamote22_perfume_15ml_01.jpg" },
+        {"img": "/images/fragrance/bergamote22_perfume_15ml_02.jpg" },
+        {"img": "/images/fragrance/bergamote22_perfume_15ml_03.jpg" }
+
+      ],
+      "price": 132000,
+      "detail":"BERGAMOTE 22는 신선함, 달콤함, 그리고 센슈얼한 느낌을 모두 담은 시트러스 프레쉬 계열의 향수입니다. 이 놀라운 조합은 이 향수의 원래 코드명이었던 파이어 코롱(Fire Cologne)에서 연상할 수 있습니다. 페티그레인의 섬세한 플로럴 향, 자몽의 쌉싸래한 향, 앰버와 머스크의 풍성한 달콤함, 그리고 베티버의 남성미 넘치는 터치가 더해져 BERGAMOTE 22의 독특한 개성을 완성합니다."
+    },
+
+    "017": {
+      "id":"017",
+      "category": "리퀴드밤",
+      "name": "SANTAL 33 LOQUID BALM 9ML",
+      "image": "/images/fragrance/santal33_liquidbalm_9ml_01.jpg",
+      "subimg": [
+
+        {"img": "/images/fragrance/santal33_liquidbalm_9ml_01.jpg"},
+        {"img": "/images/fragrance/santal33_liquidbalm_9ml_02.jpg"} 
+
+      ],
+
+      "price": 139000,
+      "detail" : "SANTAL 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. SANTAL 33을 한마디로 요약하면 이렇습니다: 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드."
+    },
+
+    "018": {
+      "id":"018",
+      "category": "리퀴드밤",
+      "name": "THÉ NOIR 29 LOQUID BALM 9ML",
+      "image": "/images/fragrance/thenoir29_liquidbalm_9ml_01.jpg",
+      "subimg": [
+
+        {"img": "/images/fragrance/thenoir29_liquidbalm_9ml_01.jpg"},
+        {"img": "/images/fragrance/thenoir29_liquidbalm_9ml_02.jpg"} 
+
+      ],
+
+      "price": 139000,
+      "detail" : "THÉ NOIR 29는 블랙 티 잎의 우아하고 아름다운 향에 바치는 찬가와도 같은 향수입니다. 베르가못, 무화과, 월계수잎의 밝은 느낌과, 시더우드, 베티버, 머스크의 다크함이 어우러져 깊이 있으면서 산뜻하고, 부드러우면서도 강한 반전 매력을 갖고 있습니다. 르 라보만의 특별한 비법으로 추출한 블랙 티 향이 온몸을 감싸줍니다. 드라이한 나뭇잎과 건초향, 토바코의 쌉싸래한 향으로 센슈얼하고 중독적인 잔향을 남깁니다."
+    },
+
+    "019": {
+      "id":"019",
+      "category": "리퀴드밤",
+      "name": "ROSE 31 LOQUID BALM 9ML",
+      "image": "/images/fragrance/rose31_liquidbalm_9ml_01.jpg",
+      "subimg": [
+
+        {"img": "/images/fragrance/rose31_liquidbalm_9ml_01.jpg"},
+        {"img": "/images/fragrance/rose31_liquidbalm_9ml_02.jpg"} 
+
+      ],
+      "price": 139000,
+      "detail":"ROSE 31은 센티폴리아 로즈의 모호한 매력으로 남성성/여성성의 경계를 뛰어넘었습니다. 여기에 커민, 올리바넘, 시더우드와 앰버의 노트가 더해져 따뜻하면서도 스파이시한 우디 향을 선사합니다. 베이스 노트로 가이악 우드와 시스투스가 센슈얼한 느낌을 주며 동물적이고 관능적인 향이 신비로움을 더합니다."
+    },
+
+    "020": {
+      "id":"020",
+      "category": "리퀴드밤",
+      "name": "BERGAMOTE 22 LOQUID BALM 9ML",
+      "image": "/images/fragrance/bergamote22_liquidbalm_9ml_01.jpg",
+      "subimg": [
+
+        {"img": "/images/fragrance/bergamote22_liquidbalm_9ml_01.jpg"},
+        {"img": "/images/fragrance/bergamote22_liquidbalm_9ml_02.jpg"} 
+
+      ],
+      
+      "price": 139000,
+      "detail":"BERGAMOTE 22는 신선함, 달콤함, 그리고 센슈얼한 느낌을 모두 담은 시트러스 프레쉬 계열의 향수입니다. 이 놀라운 조합은 이 향수의 원래 코드명이었던 파이어 코롱(Fire Cologne)에서 연상할 수 있습니다. 페티그레인의 섬세한 플로럴 향, 자몽의 쌉싸래한 향, 앰버와 머스크의 풍성한 달콤함, 그리고 베티버의 남성미 넘치는 터치가 더해져 BERGAMOTE 22의 독특한 개성을 완성합니다."
+    },
+
+    "021": {
+      "id":"021",
+      "category": "트래블튜브",
+      "name": "SANTAL 33 TRAVEL TUBE 10ML",
+      "image": "/images/fragrance/santal33_traveltube_10ml_01.jpg",
+      "subimg": [
+
+        {"img": "/images/fragrance/santal33_traveltube_10ml_01.jpg"},
+        {"img": "/images/fragrance/santal33_traveltube_10ml_02.jpg"} 
+
+      ],
+
+      "price": 261000,
+      "detail" : "SANTAL 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. SANTAL 33을 한마디로 요약하면 이렇습니다: 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드."
+
+    },
+
+    "022": {
+      "id":"022",
+      "category": "트래블튜브",
+      "name": "THÉ NOIR 29 TRAVEL TUBE 10ML",
+      "image": "/images/fragrance/thenoir29_traveltube_10ml_01.jpg",
+      "subimg": [
+
+        {"img": "/images/fragrance/thenoir29_traveltube_10ml_01.jpg"},
+        {"img": "/images/fragrance/thenoir29_traveltube_10ml_02.jpg"} 
+
+      ],
+      
+      "price": 261000,
+      "detail" : "THE NOIR 29는 블랙 티 잎의 우아하고 아름다운 향에 바치는 찬가와도 같은 향수입니다. 베르가못, 무화과, 월계수잎의 밝은 느낌과, 시더우드, 베티버, 머스크의 다크함이 어우러져 깊이 있으면서 산뜻하고, 부드러우면서도 강한 반전 매력을 갖고 있습니다. 르 라보만의 특별한 비법으로 추출한 블랙 티 향이 온몸을 감싸줍니다. 드라이한 나뭇잎과 건초향, 토바코의 쌉싸래한 향으로 센슈얼하고 중독적인 잔향을 남깁니다."
+      
+    },
+
+    "023": {
+      "id":"023",
+      "category": "트래블튜브",
+      "name": "ROSE 31 TRAVEL TUBE 10ML",
+      "image": "/images/fragrance/rose31_traveltube_10ml_01.jpg",
+      "subimg": [
+
+        {"img": "/images/fragrance/rose31_traveltube_10ml_01.jpg"},
+        {"img": "/images/fragrance/rose31_traveltube_10ml_02.jpg"} 
+
+      ],
+
+      "price": 261000,
+      "detail":"ROSE 31은 센티폴리아 로즈의 모호한 매력으로 남성성/여성성의 경계를 뛰어넘었습니다. 여기에 커민, 올리바넘, 시더우드와 앰버의 노트가 더해져 따뜻하면서도 스파이시한 우디 향을 선사합니다. 베이스 노트로 가이악 우드와 시스투스가 센슈얼한 느낌을 주며 동물적이고 관능적인 향이 신비로움을 더합니다."
+      
+    },
+
+    "024": {
+      "id":"024",
+      "category": "트래블튜브",
+      "name": "BERGAMOTE 22 TRAVEL TUBE 10ML",
+      "image": "/images/fragrance/bergamote22_traveltube_10ml_01.jpg",
+      "subimg":[
+
+        {"img": "/images/fragrance/bergamote22_traveltube_10ml_01.jpg"},
+        {"img": "/images/fragrance/bergamote22_traveltube_10ml_02.jpg"} 
+
+      ],
+      
+      "price": 261000,
+      "detail":"BERGAMOTE 22는 신선함, 달콤함, 그리고 센슈얼한 느낌을 모두 담은 시트러스 프레쉬 계열의 향수입니다. 이 놀라운 조합은 이 향수의 원래 코드명이었던 파이어 코롱(Fire Cologne)에서 연상할 수 있습니다. 페티그레인의 섬세한 플로럴 향, 자몽의 쌉싸래한 향, 앰버와 머스크의 풍성한 달콤함, 그리고 베티버의 남성미 넘치는 터치가 더해져 BERGAMOTE 22의 독특한 개성을 완성합니다."
+      
+    }
+
+
+  }
+  ,
+
+  "ingredient" : {
+    "001" : {
+    "name":"SANDAL WOOD", 
+    "image": "/images/main/maincontent07_ingredient01.jpg",
+    "detail" : "SANTAL 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. SANTAL 33을 한마디로 요약하면 이렇습니다. 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드.",
+    "button" : "SANTAL 33" 
+    }, 
+
+    "002": {
+    "name":"BLACK TEA LEAVES", 
+    "image": "/images/main/maincontent07_ingredient02.jpg",
+    "detail" : "스리랑카에서 자라는 카멜리아 시넨시스(Camellia Sinensis) 나무의 마른 잎사귀를 지속 가능한 방법으로 증류합니다. 블랙 티 잎 추출물은 그 자체로 풍부한 향과 달콤한 식물 노트를 지녔으며, 우디한 드라이다운과 향의 깊이를 더해줍니다.",
+    "button" : "THE NOIR 29"
+    },
+
+    "003": {
+    "name":"ROSE CENTIFOLIA",
+    "image": "/images/main/maincontent07_ingredient03.jpg",
+    "detail" : "로즈 센티폴리아 원액은 프랑스 그라스(Grasse) 지방에서 손으로 수확한 장미를 추출해 얻습니다. 이 장미 추출물은 꿀처럼 달콤하고 미묘한 노트를 지녔으며, 깊고 따스한 향을 선사합니다.",
+    "button" : "ROSE 31"
+    }, 
+    "004" :{
+    "name":"BERGAMOT",
+    "image": "/images/main/maincontent07_ingredient04.jpg",
+    "detail" : "환경적 책임 의식을 기반으로 재배되는 베르가못은 이탈리아 칼라브리아 남부의 특별한 시트러스 나무의 열매껍질에서 얻습니다. 베르가못이 지닌 반짝이는 투명함, 기분 좋은 시트러스, 프레쉬한 탑 노트가 밝고 경쾌한 향을 선사합니다.",
+    "button" : "BERGAMOT 22"
+    },
+    
+    "005":{
+    "name":"TONKA BEAN",
+    "image": "/images/main/maincontent07_ingredient05.jpg",
+    "detail" : "통카빈은 중남미에서 자생하는 딥테릭스 오도라타(Dipteryx Odorata) 나무의 씨앗에서 추출됩니다. 통카 빈은 그 자체로 매우 독특하고 따뜻한 아몬드와 바닐라 노트를 지녀 향에 풍부함을 더해줍니다.",
+    "button" : "TONKA 25"
+    }  
+}
+
+}
+
+
+  
