@@ -60,7 +60,7 @@ export default function MobileFragranceList() {
             
             category.map((item)=>(<li key={item.index}
               onClick={()=>{
-                setSelectCategory(item.index)
+                setSelectCategory(item.name)
               }}
               className={selectCategory === item.name ? styles.selected : ''}
             
