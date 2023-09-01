@@ -5,7 +5,7 @@ import useFragrance from '../hooks/useFragrance'
 
 export default function MobileFragranceList() {
 
-    const [fragrance] = useFragrance()
+  const [fragrance] = useFragrance()
 
     const category = [
       {index:0, name:'전체'},
@@ -30,9 +30,12 @@ export default function MobileFragranceList() {
 
     },[selectCategory, fragrance])
 
+    // console.log(selectCategoryItems);
 
+    
     const navigate = useNavigate()
 
+    
     const {search} = useLocation()
 
     useEffect(() => { // 메인에서 선택한 카테고리 보여줌 
@@ -60,7 +63,7 @@ export default function MobileFragranceList() {
             
             category.map((item)=>(<li key={item.index}
               onClick={()=>{
-                setSelectCategory(item.index)
+                setSelectCategory(item.name)
               }}
               className={selectCategory === item.name ? styles.selected : ''}
             
@@ -75,9 +78,14 @@ export default function MobileFragranceList() {
           <li>트래블 튜브</li> */}
         </ul>
 
-        <ul id={styles.mobile_fragrance_list}>
 
+
+        <ul id={styles.mobile_fragrance_list}>
+        
+      
           {
+
+            
             selectCategoryItems.map((item)=>(
               <li onClick={()=>{
                 navigate(`/mobilefragrance/${item.id}`)
