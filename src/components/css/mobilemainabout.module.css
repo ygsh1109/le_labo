@@ -9,7 +9,7 @@ div.mobilemain_about_img{
   width:92%;
   height:360px;
   border-radius: 20px 0 20px 0;
-  margin-left:8%;
+  margin: 0 auto;
   overflow: hidden;
   margin-bottom:20px;
 }
